@@ -1,0 +1,15 @@
+.navbar-brand{
+    font-size: 23px !important;
+    padding-left: 8px;
+    color: #fafafa !important;
+    visibility: visible;
+    opacity: 1;
+    display: block;
+    transition: opacity 0.2s linear;
+    position: relative;
+    float: left;
+}
+.list{
+    float: right !important;
+    border: 2px solid red !importanrt;
+}
